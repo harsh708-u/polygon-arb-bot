@@ -1,0 +1,14 @@
+# Rust / Cargo
+/target
+**/*.rs.bk
+
+# env and Keys
+.env
+
+# DB / artifacts
+opportunities.sqlite3
+
+
+# IDE
+.vscode
+
